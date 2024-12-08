@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi+There!&animation=fadeIn&type=waving&color=gradient&height=100" alt="Hi There! (waving hand)" />
 </p>
 
+### Editors:
+<a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" target="_blank"></a>
+<a href="https://neovim.io/"><img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" target="_blank"></a>
+<a href="https://www.jetbrains.com/webstorm/"><img src="https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff" target="_blank"></a>
+<a href="https://zed.dev/"><img src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF" target="_blank"></a>
+
 ### Languages:
 <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" target="_blank"></a>
 <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" target="_blank"></a>
