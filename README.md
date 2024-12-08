@@ -1,5 +1,5 @@
 <p style="text-align: center;">
-  <img src="https://capsule-render.vercel.app/api?text=Hi+There!&animation=fadeIn&type=waving&color=gradient&height=100" alt="Hi There! (waving hand)" />
+  <img src="https://capsule-render.vercel.app/api?text=Hi+There!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 ### Editors:
@@ -23,4 +23,4 @@
 <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" target="_blank"></a>
 <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" target="_blank"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=10&section" style="display: block; margin-left: auto; margin-right: auto;" alt="Section decoration" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=10&section" style="display: block; margin-left: auto; margin-right: auto"/>
